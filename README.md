@@ -1,7 +1,5 @@
 # **🚀 End-to-End CI/CD Pipeline for Node.js App Deployment on EKS using GitHub Actions**  
 
-![eksbanner](https://imgur.com/h87KAuY.png)
-
 ---
 
 ![CI/CD Pipeline](https://imgur.com/Ctznv2m.png)  
